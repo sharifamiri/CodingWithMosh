@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ddbb9f5-194d-4387-8f5b-5b3d5ab5afc0" name="Default Changelist" comment="" />
+    <list default="true" id="7ddbb9f5-194d-4387-8f5b-5b3d5ab5afc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +31,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1dNZ9fzvwY8ktDleUnujGELjGrV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -71,22 +83,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1592271803266">
+    <state x="2106" y="137" key="CommitChangelistDialog2" timestamp="1592365261031">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592271803266" />
-    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1592271803265">
+    <state x="2106" y="137" key="CommitChangelistDialog2/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592365261031" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1592440946383">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592271803265" />
-    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1592271803264">
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592440946383" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1592440946382">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592271803264" />
-    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1592271803265">
+    <state width="1358" height="267" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592440946382" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1592440946382">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592271803265" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592440946382" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1592440946383">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1592440946383" />
     <state x="1983" y="173" key="SettingsEditor" timestamp="1592268986176">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
